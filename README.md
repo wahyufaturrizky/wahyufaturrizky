@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahyu</h1>
-<h3 align="center">I'm a passionate Front End Developer & UI/UX Designer with more than 8 years of experience with React Native, Vue, Angular and Flutter, etc.</h3>
+<h3 align="center">I'm a passionate Front End Developer & UI/UX Designer with more than 7 years of experience with React Native, Vue, Angular and Flutter, etc, All my projects: bit.ly/gitlabwahyu and portfolio: bit.ly/my-portfolio-wahyu. Also check my Front End Mentor bit.ly/frontend-mentor-wahyu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyufaturrizky&label=Profile%20views&color=0e75b6&style=flat" alt="wahyufaturrizky" /> </p>
 
