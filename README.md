@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **wahyufaturrizkyy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t_kAakm0pTxtc4rKTAnr9HRkn6RbRK5Y/view?usp=sharing](resume_wahyu_fatur_rizki)
+- 📄 Know about my experiences [resume_wahyu_fatur_rizki]([resume_wahyu_fatur_rizki](https://drive.google.com/file/d/1t_kAakm0pTxtc4rKTAnr9HRkn6RbRK5Y/view?usp=sharing))
 
 - ⚡ Fun fact **Im doing coding and gym in the same time**
 
