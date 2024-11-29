@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **wahyufaturrizkyy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NUkpBXpBv7m3cSYaCAUlCNZhIM93e_TR/view?usp=sharing](https://drive.google.com/file/d/1NUkpBXpBv7m3cSYaCAUlCNZhIM93e_TR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1t_kAakm0pTxtc4rKTAnr9HRkn6RbRK5Y/view?usp=sharing](https://drive.google.com/file/d/1t_kAakm0pTxtc4rKTAnr9HRkn6RbRK5Y/view?usp=sharing)
 
 - ⚡ Fun fact **Im doing coding and gym in the same time**
 
