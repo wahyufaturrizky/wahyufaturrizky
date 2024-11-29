@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Asian Agri RGE Group](https://www.asianagri.com/)
 
-- 👨‍💻 All of my projects are available at [https://wcs-consultant-it.netlify.app/](https://wcs-consultant-it.netlify.app/)
+- 👨‍💻 All of my projects are available at [[cli ](https://clicky.id/wahyu)]([https://wcs-consultant-it.netlify.app/](https://clicky.id/wahyu))
 
 - 📝 I regularly write articles on [https://medium.com/@wahyufaturrizkyy](https://medium.com/@wahyufaturrizkyy)
 
