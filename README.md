@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wahyu</h1>
-<h3 align="center">I am a dedicated Front End Developer and UI/UX Designer with over 9 years of expertise in crafting immersive user experiences using technologies such as React Native, Vue, Angular, Flutter, PHP, Android, iOS, TypeScript, JavaScript, Laravel, C#, Net Core, Java, Node JS, Go, Ruby on Rails and Python. My project portfolio, available at https://clicky.id/wahyu, showcases the breadth and depth of my work. Additionally, you can explore my professional journey and design prowess at https://bit.ly/my-portfolio-wahyu. For a glimpse into my commitment to continuous improvement and learning, visit https://bit.ly/frontend-mentor-wahyu. I am eager to bring my skills and passion to a role that aligns with my experience and aspirations.</h3>
+<h3 align="center">Software Engineering Manager | AI & Digital Architect
+Strategic Engineering Leader with 11+ years of expertise driving digital transformation for Fortune 500 giants including Samsung, Enel, Bank Philippine, and Reckitt. I specialize in leading multi-regional teams to deliver AI-driven enterprise solutions that serve 1 billion+ users globally.
+Core Impact:
+Efficiency: Improved client operational efficiency by 20% via cloud automation and optimized integration.
+Innovation: Reduced time-to-market by 30% through Agentic AI, LLM/ML implementation, and cutting-edge cloud infrastructure.
+Growth: Leveraged data analytics and real-time systems to drive 15% revenue growth for global clients.
+Technical Ecosystem:
+Frontend/Mobile: React Native, Vue, Angular, Flutter, TypeScript.
+Backend/Cloud: C#/.NET, Python, Go, Node.js, Java, PHP, Azure, AWS.
+AI/ML: Agentic AI, FlowiseAI, n8n, Token-efficient development.
+Portfolio: clicky.id/wahyu | GitHub: github.com/wahyufaturrizky</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyufaturrizky&label=Profile%20views&color=0e75b6&style=flat" alt="wahyufaturrizky" /> </p>
 
