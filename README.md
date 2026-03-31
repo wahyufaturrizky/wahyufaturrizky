@@ -9,7 +9,7 @@ Technical Ecosystem:
 Frontend/Mobile: React Native, Vue, Angular, Flutter, TypeScript.
 Backend/Cloud: C#/.NET, Python, Go, Node.js, Java, PHP, Azure, AWS.
 AI/ML: Agentic AI, FlowiseAI, n8n, Token-efficient development.
-Portfolio: clicky.id/wahyu | GitHub: github.com/wahyufaturrizky</h3>
+Portfolio: https://clicky.id/wahyu | GitHub: https://github.com/wahyufaturrizky</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyufaturrizky&label=Profile%20views&color=0e75b6&style=flat" alt="wahyufaturrizky" /> </p>
 
